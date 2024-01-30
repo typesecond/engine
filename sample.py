@@ -1,2 +1,2 @@
 # test or
-# sd kit for seach
+# sd kit for search
